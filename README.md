@@ -1,6 +1,5 @@
 # cam-flow
 基于zeebe二次开发的工作流
-# READMINE: Suggested template for software READMEs
 
 This is an example README file demonstrating a suggested structure for README files of software projects on GitHub.  You can copy this [`README.md`](https://raw.githubusercontent.com/mhucka/readmine/main/README.md) file into your project repository and edit the text as needed.
 
